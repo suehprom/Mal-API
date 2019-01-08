@@ -1,6 +1,5 @@
 Mal-API
 =======
 
-Unnoficcial My Anime List API
 
-Future readme file will be here
+esto iba a ser una API para myanimelist en AHK... pero en eso quedo
